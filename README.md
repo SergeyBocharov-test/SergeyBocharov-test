@@ -1,0 +1,6 @@
+- 👋 Hi, my name is Sergey Bocharov
+- 🌱 I’m currently learning `JavaScript` and `Front-end development` on [Rolling Scopes School](https://rs.school/js/ "JavaScript/Front-end")'s course
+- 📫 How to reach me: 
+  - Discord: __Djeeshka#6034__ *- the best way to contact me*
+  - Email: work.sergey.bocharov@ya.ru *- second best way to contact me*
+  - VK: https://vk.com/the_g_man *- least pleasant way to contact me; rarely use it*
