@@ -72,3 +72,4 @@ path id="koala__pin-outline" d=". . ." stroke="white" stroke-opacity="0" stroke-
 <br>Как-то так. Устал пересылать соблюдая последовательность изображений по этому теперь в таком формате.<br>
 Если оказалось полезно - можете сказать спасибо в RSApp - там в футере увидите кнопочку в разделе Feedback - <https://app.rs.school/gratitude> ; через дискорд спасибо не идет в статистику.
 <br>@sergeybocharov-test
+
